@@ -2,7 +2,7 @@
   "name": "birthdayreminder",
   "private": true,
   "version": "1.0.0",
-  "description": "BirthdayReMinder",
+  "description": "an app to remember you of your birthday",
   "main": "app.js",
   "type": "module",
   "engines": {
