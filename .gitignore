@@ -1,5 +1,6 @@
 node_modules
 .env
+.vscode
 
 # wrangler files
 .wrangler
@@ -7,4 +8,3 @@ node_modules
 !.dev.vars.example
 .env*
 !.env.example
-.vscode
