@@ -13,13 +13,12 @@
     "register": "node commands.js",
     "dev": "nodemon app.js"
   },
-  "author": "Shay DeWael",
+  "author": "Diogo Lima",
   "license": "MIT",
   "dependencies": {
     "discord-interactions": "^4.0.0",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "itty-router": "^5.0.22"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.0",
